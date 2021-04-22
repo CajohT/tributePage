@@ -1,6 +1,40 @@
 body {
-    background-color: #F18805;
+    background-color: #AA6DA3;
 }
-head {
-    font: 'Roboto', sans-serif;
+
+p {
+    font-family:'Original Surfer', cursive;
+    background-color: #B118C8;
+
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: white
+}
+
+h2 {
+    font-family: 'Bangers', cursive;
+    color: white
+}
+
+h3 { 
+    font-family: 'Bangers', cursive;
+    color: white
+}
+div {
+    font-family: 'Righteous', cursive;
+
+}
+img {
+    border-style: double;
+    border-color: white; 
+    border-width: thick;
+    height: 300px;
+    width: 300px;
+}
+table {
+    border-style: groove;
+    border-color: #CCD5FF;
+    border-width: thick;
 }
